@@ -3,7 +3,7 @@
 <h5 align="center">Analista de Rede e DevOps</h5>
 
 <p align="center">
-	<a href="https://gist.github.com/willnaoosmith">
+	<a href="https://gist.github.com/ninguemns">
 		<img src="https://img.shields.io/badge/-Gists-000?style=for-the-badge&logo=Github&logoColor=white" />
 	</a>
 	    <a href="mailto:netonetworks@proton.me">
