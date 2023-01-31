@@ -15,7 +15,7 @@
 </p>
 <br>
 
-<h4 align="center">Algumas tecnologias, Linguagens e outros:<h4/>
+<h4 align="center">Algumas Tecnologias, Linguagens e outros:<h4/>
 	
 <p align="center">
 	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;
