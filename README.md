@@ -9,7 +9,7 @@
 	<a href="mailto:netonetworks@proton.me">
 		<img src="https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white" />
 	</a>
-  <a href="mailto:netonetworks@proton.me">
+  <a href="mailto:netonetworks@gmail.com">
 	  <img src="https://img.shields.io/badge/gmail-%238B89CC.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 	<a href="https://www.linkedin.com/in/joaquimnogueiraneto/">
