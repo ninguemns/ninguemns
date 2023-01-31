@@ -38,7 +38,7 @@
 {
    "Joaca": {
       "FocoAtual": "Estudar metodologias DevOps e automarizar tarefas massantes com Python",
-      "ComoEuMeVejoEm5Anos": "DevOps Senior e Consultor de Infraestru",
+      "ComoEuMeVejoEm5Anos": "DevOps Senior e Consultor de Infraestrutura",
       "Favoritos": {
          "Linguagem": "Python",
          "SistemaMobile": "iOS",
