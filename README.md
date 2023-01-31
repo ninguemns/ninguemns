@@ -6,8 +6,11 @@
 	<a href="https://gist.github.com/ninguemns">
 		<img src="https://img.shields.io/badge/-Gists-000?style=for-the-badge&logo=Github&logoColor=white" />
 	</a>
-	    <a href="mailto:netonetworks@proton.me">
+	<a href="mailto:netonetworks@proton.me">
 		<img src="https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white" />
+	</a>
+  <a href="mailto:netonetworks@proton.me">
+	  <img src="https://img.shields.io/badge/gmail-%238B89CC.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 	<a href="https://www.linkedin.com/in/joaquimnogueiraneto/">
 		<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
