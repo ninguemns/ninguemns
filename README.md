@@ -40,7 +40,7 @@
       "Favoritos": {
          "Linguagem": "Python",
          "SistemaMobile": "iOS",
-         "Games": ["Nokia Snake", "Control","Need For Speed"],
+         "Games": ["Nokia Snake","Control","Need For Speed"],
          "Music": {
             "Genres": ["Hip Hop","Rock","Lo-fi"],
             "Songs": ["Tupac - Changes","Isaiah Rashad - Heavenly Father"],
